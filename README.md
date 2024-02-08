@@ -3,8 +3,10 @@
 </div>
 
 <p>
-I am a Software Developer skilled in <strong>Javascript, React, Docker, Node.js, Vue.js</strong> and <strong>Webpack</strong>.<br/>
-Strongly interested in <strong>React, Node.js, Golang, Java, Docker, DevOps and Linux</strong>.<br/>With a bachelor degree focused on Software Engineering.
+Experienced Software Developer with 5+ years of experience in Backend development.<br/>
+Skilled in Typescript, Java, Node.js, Linux, Docker, Kubernetes, and DevOps.<br/>
+Interested in Golang, System design, and software architecture.<br/>
+Holds a Software Engineering degree. Ready to bring innovation, strategic thinking, and technical expertise to projects.<br/>
   </p>
 <p>
 
